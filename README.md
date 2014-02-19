@@ -1,3 +1,10 @@
+Based on symblog tutorial.
+http://tutorial.symblog.co.uk
+
+I have updated this to Symfony 2.2 (it was for Symfony 2.0.4)
+
+Enjoy !
+
 Symfony Standard Edition
 ========================
 
